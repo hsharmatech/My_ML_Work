@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Tourist Map by GoaTourismTravels</name>
+    <description><![CDATA[Plan and Reach Goa for Vacation with "Goa Tourism Travels" comprehensive Guide. Travel, Discover and Explore Goa in a most fascinating way. It includes up-to-date information about Beaches, Hotels, Restaurants, Accommodation, Weather, Maps, Cruise, Entertainment, Nightlife, Events & Festivals, Local Transport, Sightseeing, Activities, Market & Shopping, Travel Tips, Attractions, Pictures, A to Z travel advice (on Places of Interest which includes Location, Highlights, How to reach & Others), Tour, Travel, Holiday attractions & Places Around Goa, Things To Do, and last but not the least – Recommendations !!!]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-0000FF-5000-normal">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>5</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-0000FF-5000-highlight">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>7.5</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-0000FF-5000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0000FF-5000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0000FF-5000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Arambol Beach</name>
+        <description><![CDATA[Arambol (http://www.goatourismtravels.com/beaches/north-goa-beaches/arambol-beach/#.UTf5wTcb880) on Goa's far northern stretch of coastline, has become the new hippie haven. Once a small fishing village, it's now full of long term travelers. You'll find plenty of alternative therapies there, such as meditation, yoga, tai chi, and reiki. Water sports and dolphin sight-seeing trips are on offer as well. The nightlife is relaxed, with live music and jam sessions happening.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.70322,15.684671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mandrem Beach</name>
+        <description><![CDATA[The wide open beaches of Mandrem (http://www.goatourismtravels.com/beaches/north-goa-beaches/mandrem-ashvem-morgim-beach/#.UTf8DTcb880) and Morjim (http://www.goatourismtravels.com/beaches/north-goa-beaches/mandrem-ashvem-morgim-beach/#.UTf8DTcb880) are quite empty and isolated, and have limited facilities for visitors. You'll find a few beach resorts, makeshift accommodations and camping facilities, but not much else. Many locals also let their homes out to tourists. These beaches are best known for their protected turtle population. Quite a bit of land in the area around Morjim (http://www.goatourismtravels.com/beaches/north-goa-beaches/mandrem-ashvem-morgim-beach/#.UTf8DTcb880) and Ashvem (http://www.goatourismtravels.com/beaches/north-goa-beaches/mandrem-ashvem-morgim-beach/#.UTf8DTcb880) has been bought by Russians, who are settling there in mass. It's possible to walk to Mandrem (http://www.goatourismtravels.com/beaches/north-goa-beaches/mandrem-ashvem-morgim-beach/#.UTf8DTcb880) from Arambol.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.713005,15.657544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ashvem Beach</name>
+        <description><![CDATA[The wide open beaches of Mandrem (http://www.goatourismtravels.com/beaches/north-goa-beaches/mandrem-ashvem-morgim-beach/#.UTf8DTcb880) and Morjim (http://www.goatourismtravels.com/beaches/north-goa-beaches/mandrem-ashvem-morgim-beach/#.UTf8DTcb880) are quite empty and isolated, and have limited facilities for visitors. You'll find a few beach resorts, makeshift accommodations and camping facilities, but not much else. Many locals also let their homes out to tourists. These beaches are best known for their protected turtle population. Quite a bit of land in the area around Morjim (http://www.goatourismtravels.com/beaches/north-goa-beaches/mandrem-ashvem-morgim-beach/#.UTf8DTcb880) and Ashvem (http://www.goatourismtravels.com/beaches/north-goa-beaches/mandrem-ashvem-morgim-beach/#.UTf8DTcb880) has been bought by Russians, who are settling there in mass. It's possible to walk to Mandrem (http://www.goatourismtravels.com/beaches/north-goa-beaches/mandrem-ashvem-morgim-beach/#.UTf8DTcb880) from Arambol.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.716588,15.646697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Morgim Beach</name>
+        <description><![CDATA[The wide open beaches of Mandrem (http://www.goatourismtravels.com/beaches/north-goa-beaches/mandrem-ashvem-morgim-beach/#.UTf8DTcb880) and Morjim (http://www.goatourismtravels.com/beaches/north-goa-beaches/mandrem-ashvem-morgim-beach/#.UTf8DTcb880) are quite empty and isolated, and have limited facilities for visitors. You'll find a few beach resorts, makeshift accommodations and camping facilities, but not much else. Many locals also let their homes out to tourists. These beaches are best known for their protected turtle population. Quite a bit of land in the area around Morjim (http://www.goatourismtravels.com/beaches/north-goa-beaches/mandrem-ashvem-morgim-beach/#.UTf8DTcb880) and Ashvem (http://www.goatourismtravels.com/beaches/north-goa-beaches/mandrem-ashvem-morgim-beach/#.UTf8DTcb880) has been bought by Russians, who are settling there in mass. It's possible to walk to Mandrem (http://www.goatourismtravels.com/beaches/north-goa-beaches/mandrem-ashvem-morgim-beach/#.UTf8DTcb880) from Arambol.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.736329,15.61568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vagator Beach</name>
+        <description><![CDATA[Vagator Beach (http://www.goatourismtravels.com/beaches/north-goa-beaches/vagator-beach/#.UTf98Dcb880), north of Anjuna, is the center of Goa's trance party scene. The beach itself is located at the bottom of a steep cliff, and is divided into three sections -- Big Vagator (http://www.goatourismtravels.com/beaches/north-goa-beaches/vagator-beach/#.UTf98Dcb880) (the main stretch of beach, overrun by Indian tourists), Little Vagator (http://www.goatourismtravels.com/beaches/north-goa-beaches/vagator-beach/#.UTf98Dcb880) (past the rocks, known as Tel Aviv Beach due to the number of Israelis there) and Ozran (Spaghetti Beach in the far south, dominated by Italians).]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.733518,15.60266,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anjuna Beach</name>
+        <description>Anjuna (http://www.goatourismtravels.com/beaches/north-goa-beaches/anjuna-beach/#.UTf-kjcb880) is a small Village in north Goa and is popularly called the freak capital in the world. Its significant tourist spots are the magnificent Albuquerque Mansion built in 1920 (flanked by octagonal towers and an attractive Mangalore tile-roof), the Mascarenhas Mansion, and the Chapora fort.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.739977,15.576349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Baga Beach</name>
+        <description><![CDATA[For sure, Baga Beach (http://www.goatourismtravels.com/beaches/north-goa-beaches/baga-beach/#.UTf_Xzcb880) in north Goa may be touristy and busy but for those who like action, it’s one of the most happening beaches on the coast. You'll find everything from water sports to fine dining restaurants there, along with a pulsating nightlife.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.751618,15.555679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calangute Beach</name>
+        <description><![CDATA[Calangute (http://www.goatourismtravels.com/beaches/north-goa-beaches/calangute-beach/#.UTgAHzcb880) is Goa's flagship beach and it plays an irreplaceable role in the state's tourism sweepstakes. Stretching over an expanse of seven kilometers, Calangute beach (http://www.goatourismtravels.com/beaches/north-goa-beaches/calangute-beach/#.UTgAHzcb880) is known by the sobriquet the 'Queen of Beaches' for its pre-eminence among the scenic beaches that dot the Goan landscape. Due to its extreme popularity, Calangute beach beckons tourists and backpackers from all over the world. The period from November to February is the most pleasant to visit here. The beach itself isn't anything special, with steeply shelving sand; however its capacity is large enough to accommodate the huge number of high-season visitors.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.753517,15.549415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Candolim Beach</name>
+        <description><![CDATA[The long straight stretch of Candolim Beach (http://www.goatourismtravels.com/beaches/north-goa-beaches/candolim-beach/#.UTgASjcb880) is lined with shacks and bars, which back onto scrub covered sand dunes. It's a lively beach that has managed to retain its cleanliness, and even peacefulness in some areas, making it a good alternative to the maddeningly crowded Calangute and Baga. You'll find plenty of tasty restaurants and happening nightspots in the area.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.762722,15.517288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Miramar Beach</name>
+        <description><![CDATA[A lovely Golden beach of soft sand girdled with palm trees facing the blue Arabian Sea, is the nearest to Panaji. Miramar (http://www.goatourismtravels.com/beaches/south-goa-beaches/miramar-beach/#.UTgBADcb880) is an urban beach where the Mandovi River meets the Arabian Sea. Miramar Beach (http://www.goatourismtravels.com/beaches/south-goa-beaches/miramar-beach/#.UTgBADcb880) offers the opportunity to view the stunning sunset. It is not a safe beach to swim as there is a strong undercurrent. Miramar beach (http://www.goatourismtravels.com/beaches/south-goa-beaches/miramar-beach/#.UTgBADcb880) was originally known as the "Gasper Dias Beach”, the Panaji Beach is over 2 Kilometers long.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.807311,15.482654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Grandmother's Hole Beach]]></name>
+        <description><![CDATA[It is a secret worth sharing!!  To get to this beach, one can pass through a hole in the fort wall ruins and catch a breathtaking and windblown amazing view of the picturesque beach. The hole from where one can enter is a gap in the Fortaleza Santa Catarina Fort walls to access the beach.  The name, Grandmother's Hole Beach (http://www.goatourismtravels.com/beaches/south-goa-beaches/grandmother-s-hole-beach/#.UTgBRTcb880) derives from a folklore that a grandmother used to sit at this hole waiting for her sons to come back from the sea. This tiny strip of sand is the prettiest beach in Goa, devoid and untouched by shacks.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.786926,15.404989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Baina Beach</name>
+        <description>It is a beautiful beach where one can enjoy an evening walk or a swim. One can also enjoy water sports here and Baina beach (http://www.goatourismtravels.com/beaches/south-goa-beaches/baina-beach/#.UTgB_Tcb880) is now known to be a tourist spot in Goa.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.806839,15.391791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bogmalo Beach</name>
+        <description>Bogmalo beach (http://www.goatourismtravels.com/beaches/south-goa-beaches/bogmalo-beach/#.UTgCQTcb880) of Goa is small fishing village that is bordered by palm trees and is breathtakingly beautiful. The location of the Bogmalo beach (http://www.goatourismtravels.com/beaches/south-goa-beaches/bogmalo-beach/#.UTgCQTcb880) of India is such that it forms the end of the Colva bay. This sandy beach dotted with tall palm trees makes the Colva bay even more beautiful. The Bogmalo beach (http://www.goatourismtravels.com/beaches/south-goa-beaches/bogmalo-beach/#.UTgCQTcb880) is relatively clean and not much crowded and that is what makes it attractive to a family as well as a lone traveler.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.83379,15.369736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Majorda Beach</name>
+        <description>Majorda beach (http://www.goatourismtravels.com/beaches/south-goa-beaches/majorda-beach/#.UTgCszcb880) has virgin white sands, palm fringed and sun drenched beaches. Majorda beach (http://www.goatourismtravels.com/beaches/south-goa-beaches/majorda-beach/#.UTgCszcb880) is popular and one of the best in South Goa situated in the southern part of Bogmalo. Majorda beach (http://www.goatourismtravels.com/beaches/south-goa-beaches/majorda-beach/#.UTgCszcb880) comprises long lanes of palm grove trees and its clear water comes from the Arabian Sea.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.901768,15.31105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Colva Beach</name>
+        <description>Colva beach (http://www.goatourismtravels.com/beaches/south-goa-beaches/colva-beach/#.UTgDkDcb880) is one of the most beautiful beaches in Goa with 20kms of uninterrupted white and golden sand fringed with coconut palms. This lively beach has all the charms to make their holiday a memorable experience for visitors. Tourists, mainly Indian families adore this beach.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.912926,15.276444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Benaulim Beach</name>
+        <description><![CDATA[Benaulim Beach (http://www.goatourismtravels.com/beaches/south-goa-beaches/benaulim-beach/#.UTgD4Dcb880) is only a short distance south of Colva Beach, but there's a huge contrast between the two. Known for its fishing industry, it's a beautiful and laid back stretch of beach. You won't find any wild parties there, but water sports and dolphin sightseeing trips are on offer. It does get a little crowded around peak time in December, but head a bit further south down the beach and the quietness will be restored.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.918462,15.257027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Varca Beach</name>
+        <description><![CDATA[Varca beach (http://www.goatourismtravels.com/beaches/south-goa-beaches/varca-cavelossim-mobor-beach/#.UTgEJjcb880) has pristine and un-spoilt fishing beaches are the territory of Goa's luxury resorts. There are a few beach shacks, water sports, and local vendors but the beaches remain clean, and the sand white. Most of the nightlife happens at the resorts and includes live music, cultural performances, and casinos. You'll also find a handful of low-key bars around Cavelossim (http://www.goatourismtravels.com/beaches/south-goa-beaches/varca-cavelossim-mobor-beach/#.UTTzNzcb880).]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.928976,15.22092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cavelossim Beach</name>
+        <description><![CDATA[Varca beach (http://www.goatourismtravels.com/beaches/south-goa-beaches/varca-cavelossim-mobor-beach/#.UTgEJjcb880) has pristine and un-spoilt fishing beaches are the territory of Goa's luxury resorts. There are a few beach shacks, water sports, and local vendors but the beaches remain clean, and the sand white. Most of the nightlife happens at the resorts and includes live music, cultural performances, and casinos. You'll also find a handful of low-key bars around Cavelossim (http://www.goatourismtravels.com/beaches/south-goa-beaches/varca-cavelossim-mobor-beach/#.UTgEJjcb880).]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.94155,15.170684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mobor Beach</name>
+        <description><![CDATA[Varca beach (http://www.goatourismtravels.com/beaches/south-goa-beaches/varca-cavelossim-mobor-beach/#.UTgEJjcb880) has pristine and un-spoilt fishing beaches are the territory of Goa's luxury resorts. There are a few beach shacks, water sports, and local vendors but the beaches remain clean, and the sand white. Most of the nightlife happens at the resorts and includes live music, cultural performances, and casinos. You'll also find a handful of low-key bars around Cavelossim (http://www.goatourismtravels.com/beaches/south-goa-beaches/varca-cavelossim-mobor-beach/#.UTgEJjcb880).]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.94567,15.156166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Agonda Beach</name>
+        <description><![CDATA[Agonda beach (http://www.goatourismtravels.com/beaches/south-goa-beaches/agonda-beach/#.UTgFyTcb880) is the perfect beach for anyone who simply wants to relax away from it all. This seemingly endless pristine beach stretches for around 3 kilometers and it's lined with simple beach shacks. Hawkers aren't allowed on the beach, so you'll be able to remain refreshingly undisturbed. Chilling, swimming, walking, eating and just generally doing nothing are the main attractions at Agonda (http://www.goatourismtravels.com/beaches/south-goa-beaches/agonda-beach/#.UTgFyTcb880). Boat trips are possible for those who are up for some activity.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.985667,15.044192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palolem Beach</name>
+        <description><![CDATA[Picturesque Palolem Beach (http://www.goatourismtravels.com/beaches/south-goa-beaches/palolem-beach/#.UTgGQTcb880), enclosed by a thick forest of coconut palms in far south Goa, is arguably the state's most beautiful beach. This mile long, shady, semi-circle shaped beach continues to grow in popularity every year, and it's become very lively with the diverse crowd that it attracts.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            74.023175,15.01037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Patnem Beach</name>
+        <description><![CDATA[Patnem beach (http://www.goatourismtravels.com/beaches/south-goa-beaches/patnam-beach/#.UTgGsjcb880) is an appealing alternative to south Goa's popular Palolem beach (http://www.goatourismtravels.com/beaches/south-goa-beaches/palolem-beach/#.UTT0Mjcb881), for those who don't want to be right in the middle of the action but still want some entertainment. It's lined with beach shacks and huts, yet there's plenty of space for everyone.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            74.033518,14.996857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Goa Border</name>
+        <description><![CDATA[Plan and Reach Goa for Vacation with "Goa Tourism Travels" comprehensive Guide. Travel, Discover and Explore Goa in a most fascinating way. It includes up-to-date information about Beaches, Hotels, Restaurants, Accommodation, Weather, Maps, Cruise, Entertainment, Nightlife, Events & Festivals, Local Transport, Sightseeing, Activities, Market & Shopping, Travel Tips, Attractions, Pictures, A to Z travel advice (on Places of Interest which includes Location, Highlights, How to reach & Others), Tour, Travel, Holiday attractions & Places Around Goa, Things To Do, and last but not the least – Recommendations !!!]]></description>
+        <styleUrl>#line-0000FF-5000</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            73.684616,15.7208,0
+            73.685989,15.722514,0
+            73.689251,15.723506,0
+            73.697705,15.723919,0
+            73.703306,15.724125,0
+            73.709185,15.724827,0
+            73.719378,15.724022,0
+            73.727446,15.724683,0
+            73.73542,15.73079,0
+            73.75122,15.73476,0
+            73.7622,15.73277,0
+            73.78555,15.72617,0
+            73.79241,15.73542,0
+            73.80203,15.73674,0
+            73.81439,15.73806,0
+            73.82949,15.75128,0
+            73.82949,15.76317,0
+            73.8446,15.77771,0
+            73.84872,15.78828,0
+            73.85559,15.79753,0
+            73.86932,15.79753,0
+            73.87481,15.78564,0
+            73.8858,15.7711,0
+            73.88168,15.75789,0
+            73.89541,15.74467,0
+            73.90777,15.74335,0
+            73.927,15.74203,0
+            73.9421,15.73806,0
+            73.95172,15.71956,0
+            73.95996,15.70105,0
+            73.97232,15.67593,0
+            73.97369,15.6508,0
+            73.97369,15.63493,0
+            73.99704,15.61113,0
+            74.02175,15.60452,0
+            74.03137,15.60452,0
+            74.03823,15.62039,0
+            74.08862,15.63138,0
+            74.09136,15.64014,0
+            74.09514,15.64262,0
+            74.10055,15.64411,0
+            74.11728,15.65386,0
+            74.13376,15.65064,0
+            74.14303,15.65452,0
+            74.14647,15.65502,0
+            74.14621,15.6589,0
+            74.14758,15.66287,0
+            74.15144,15.66576,0
+            74.15299,15.6713,0
+            74.16913,15.67547,0
+            74.17775,15.68196,0
+            74.18136,15.67894,0
+            74.18719,15.67816,0
+            74.19663,15.67465,0
+            74.19891,15.66006,0
+            74.225,15.64948,0
+            74.22637,15.66271,0
+            74.24285,15.66006,0
+            74.25796,15.6389,0
+            74.25247,15.62964,0
+            74.26483,15.6151,0
+            74.26757,15.60187,0
+            74.25933,15.57674,0
+            74.25521,15.56615,0
+            74.26895,15.55822,0
+            74.28405,15.54234,0
+            74.2868,15.52646,0
+            74.27856,15.51191,0
+            74.26208,15.50397,0
+            74.25659,15.48941,0
+            74.27856,15.45103,0
+            74.28405,15.43779,0
+            74.27998,15.42191,0
+            74.28268,15.40734,0
+            74.28405,15.38483,0
+            74.29504,15.37424,0
+            74.31015,15.37424,0
+            74.32388,15.36762,0
+            74.32525,15.35041,0
+            74.32525,15.32127,0
+            74.33761,15.29875,0
+            74.33761,15.28551,0
+            74.32388,15.28286,0
+            74.30328,15.28286,0
+            74.28405,15.28153,0
+            74.27444,15.26696,0
+            74.25933,15.25238,0
+            74.27444,15.23649,0
+            74.29504,15.23119,0
+            74.30603,15.21793,0
+            74.31564,15.19938,0
+            74.32388,15.1795,0
+            74.31289,15.16492,0
+            74.30328,15.14902,0
+            74.29229,15.14106,0
+            74.29229,15.11455,0
+            74.28405,15.09864,0
+            74.28405,15.08008,0
+            74.28817,15.06416,0
+            74.29916,15.04958,0
+            74.29504,15.03499,0
+            74.2868,15.02305,0
+            74.27993,15.01111,0
+            74.26895,14.99519,0
+            74.26483,14.98591,0
+            74.27307,14.9753,0
+            74.26345,14.96203,0
+            74.25109,14.95539,0
+            74.24148,14.95672,0
+            74.22912,14.94213,0
+            74.21951,14.93549,0
+            74.21264,14.92753,0
+            74.20166,14.93151,0
+            74.19891,14.94213,0
+            74.18243,14.95407,0
+            74.17282,14.94743,0
+            74.16595,14.93815,0
+            74.17144,14.9262,0
+            74.17419,14.91559,0
+            74.15908,14.91426,0
+            74.1426,14.91824,0
+            74.12475,14.91028,0
+            74.10965,14.9063,0
+            74.08905,14.89303,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Sahakari Spice Farm</name>
+        <description>The spice plantations (http://www.goatourismtravels.com/things-to-do/must-see/sahakari-spice-farm) of Goa are quite popular as a tourist attraction. On a typical excursion to the spice plantations, you shall begin your day by starting to explore the fields and the farms. It is very astonishing to see men climbing on very tall trees while maintaining a balance and at the same time plucking betel nut fruits from those swaying trees.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            74.024275,15.409406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sri Mangeshi temple</name>
+        <description>Sri Mangeshi temple (http://www.goatourismtravels.com/sight-seeing/temples-in-goa/sri-mangeshi-temple) is a most famous temple located in the Ponda district in Goa about 30 kilometers from Panaji, the state capital. This beautiful temple is dedicated to Lord Shiva. The lovely temple attracts lots of devotees and the architecture of the temple follows every norm of the traditional Hindu architectural style.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.966645,15.445076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sri Shantadurga temple</name>
+        <description>Sri Shantadurga Temple (http://www.goatourismtravels.com/sight-seeing/temples-in-goa/sri-shantadurga-temple) is dedicated to the Goddess known as Shantadurga who is known to be a peaceful form of Goddess Durga. According to legends, she settled a major dispute between Lord Shiva and Lord Vishnu amicably. The temple is constructed beautifully and is located amidst scenic landscapes.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.985496,15.39597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Basilica of Bom Jesus</name>
+        <description>One of the most popular churches in Goa, the Basilica of Bom Jesus truly deserves to be given the status of a World Heritage Site. It is located in Old Goa which was the capital city during the Portugal rule. The Basilica of Bom Jesus (http://www.goatourismtravels.com/sight-seeing/churches-in-goa/basilica-bom-jesus) is famous for the preserved mortal remains of St. Francis Xavier.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.911552,15.500664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Church of Mary Immaculate Conception</name>
+        <description>The Church of Mary Immaculate Conception (http://www.goatourismtravels.com/sight-seeing/churches-in-goa/church-mary-immaculate-conception) is one of the most famous landmarks of Goa. This church is supposed to be one of the earliest churches to be constructed in Goa. Tourists come to the Mary Immaculate Conception Church of India to feel blessed and to marvel at the magnitude of its construction.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.829477,15.498555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dona Paula</name>
+        <description>This place is called the Lovers Paradise in Goa, named after Dona Paula (http://www.goatourismtravels.com/things-to-do/must-see/dona-paula-jetty-beach) de Menezes. The enticing story is about a girl named Dona Paula de Menzes, after whom the place has been named. She was the daughter of a viceroy in colonial India, who threw herself off the cliff, when refused permission to marry a local fisherman, Gaspar Dias.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.803642,15.450599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Three Kings Church</name>
+        <description>Goa is visited by millions of tourist every year. There are so many places in Goa which are famous as tourist spot. But there are some places which are worth to be visited by tourists but very few people know about them, one such place is the Three Kings Church (http://www.goatourismtravels.com/sight-seeing/churches-in-goa/three-kings-church-or-haunted-church) in the Cansaulim village about 15m from Velsao in south Goa.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.900738,15.360094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Big Foot Museum</name>
+        <description>A miniature Goan village set up to recreate the rural life of old days. It is privately run by an artist called Maendra Jocelino Araujo Alvares. The open-air museum (http://www.goatourismtravels.com/things-to-do/museums/big-foot-museum) recreates Goan rural life as it was a hundred years ago.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.987588,15.339537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Archaeological Museum of Goa</name>
+        <description>The Archaeological Museum of Goa (http://www.goatourismtravels.com/things-to-do/museums/archaeological-museum) is maintained by the Archaeological Survey of India (ASI) and is a popular tourist attraction of Goa. It is one of its kinds in Asia and was set up around the year 1994 in a joint collaboration between Indian National Trust for Art and Cultural Heritage and Calouste Gulbentian of Portugal.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.83291,15.493241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Naval Aviation Museum</name>
+        <description>It is the only Naval Aviation Museum (http://www.goatourismtravels.com/things-to-do/museums/naval-aviation-museum) that exists in Asia and is also one of the only seven naval aviation museums that exist in the world. At the Naval Aviation Museum, real aircraft that span the retries history of the naval aviation in India is displayed.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.838768,15.374774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Selaulim Dam</name>
+        <description><![CDATA[Selaulim Dam (http://www.goatourismtravels.com/things-to-do/dams/selaulim-dam) is Goa's biggest man-made water storage source that is also a favourite picnic spot for locals. During the monsoons, the misty outlook of the Western Ghats against the backdrop of the dam is truly breathtaking. One can spend hours here in its scenic beauty.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            74.187498,15.173625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dudh Sagar Waterfalls</name>
+        <description><![CDATA[Listed as one of the highest waterfalls in the world and India's fifth highest waterfall, Dudh Sagar waterfalls (http://www.goatourismtravels.com/things-to-do/waterfall-lakes/dudh-sagar-falls) are located in the Sanguem district of Goa near the Goa-Karnataka border. Dudh Sagar waterfalls of Goa have the distinction of being ranked as the fifth highest waterfall in India and they list in the Top 100 highest waterfalls in the world.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            74.314377,15.314796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mayem Lake</name>
+        <description>Nestled amidst verdant hills and a sleepy countryside, the Mayem Lake (http://www.goatourismtravels.com/things-to-do/waterfall-lakes/mayem-lake) exudes a charming freshness which is in sharp contrast to the bustling environment of Goan beaches. The most famous lake in Goa, this placid spread of water is a major tourist attraction and a must-have on most of the tourist itineraries.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.940016,15.576091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bondla Wildlife Sanctuary</name>
+        <description>Botanical Garden, Rose Garden, Deer Park and numerous species of animals. Bondla Wildlife Sanctuary (http://www.goatourismtravels.com/sight-seeing/wildlife/bondla-wildlife-sanctuary) is a good picnic spot and has some good cottage rooms for staying. Rooms are booked in advance from 1st Lift, 4th Floor, Junta House situated in state capital, Panaji.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            74.106367,15.44005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aguada Fort</name>
+        <description><![CDATA[An awe-inspiring edifice, the Aguada fort stands tall among the Portuguese-era forts scattered across Goa. Strategically located at the estuary of the river Mandovi, the Aguada fort is the largest among the lot. Aguada in Portuguese translates to 'water' and the fort has been called so for the spring within the ramparts that provided water supply to the ships that called here arriving after the long sea voyage.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.773687,15.492372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dr. Salim Ali Bird Sanctuary</name>
+        <description>Dr. Salim Ali Bird sanctuary is one of the most famous bird sanctuaries in India. It has been named after the famous ornithologist of India, Dr. Salim Ali. This bird sanctuary is one of the smallest bird sanctuaries in Goa and is spread over an area of just 1.8 square kilometers. Even though it is small, it has a variety of species of birds and plants. Numerous tourists visit this sanctuary to observe the delightful winged creatures. Dr. Salim Ali bird sanctuary houses not just local but exotic migratory birds as well.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.856578,15.515469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Curlies</name>
+        <description>Curlies beach shack along the Little Anjuna Beach is an ideal evening joint. While cool evening breeze caresses your senses the soothing atmosphere, calm waves and enchanting music will relax the soul. The shack often lays out its seating arrangements on the beach in the moonlight while evening barbecues and bonfires are also lit on special occasions.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.742251,15.569487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Club Tito's]]></name>
+        <description><![CDATA[The Baga beach houses one of the most famous discotheques of Goa, the Tito's. One of the first discos in Goa, is also one of the most modern, well-equipped and acoustically aesthetic discotheque in Goa. Tito’s really doesn’t need an introduction – the place is always chock-a-bloc with party-hounds. Adding to the punch is a good bar and a restaurant.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.753112,15.555989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anjunem Keri Dam</name>
+        <description><![CDATA[It is one of the most idyllic places to enjoy the mystic charm and greenery around. The dam lies in a sylvan valley formed by the proximity of another peak, Morlemgad to its south-east and below one of Goa's highest peaks, Vagheri hill. - See more at: http://www.goatourismtravels.com/things-to-do/dams/anjunem-keri-dam/#.UeJ2RKxtzUU]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            74.088525,15.615907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arvalem Waterfalls</name>
+        <description>The Arvalem Waterfall is a very scenic and beautiful picnic spot. This charming waterfall is a mind-blowing experience. The fall looks stunning with the thunderous gush of water cascading down the rocky terrain of the mountain behind it. - See more at: http://www.goatourismtravels.com/things-to-do/waterfall-lakes/arvalem-waterfalls/#.UeJ4aKxtzUU</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            74.026957,15.551074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arvalem Caves</name>
+        <description>These caves from the 6th century are quite small, with no articulate sculptures or paintings. The origin of these caves is uncertain, some believing them to be of Buddhist origin, although the presence of “Lingas” does not justify this statement claiming them to be of Brahmin origin. - See more at: http://www.goatourismtravels.com/things-to-do/places-interest/arvalem-caves/#.UeJ47qxtzUU</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            74.023033,15.552578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kesarval Waterfalls</name>
+        <description>Kesarval Waterfall is surrounded by tropical woodlands and swaying betel palms and emerges from the hard rocks. The waterfall is in its full glory in the monsoons and looks fabulous, brimming with sparkling water. The waterfall has a reputation among the locals and the bathers who come from faraway places, of having medicinal properties in its waters. - See more at: http://www.goatourismtravels.com/things-to-do/waterfall-lakes/seasonal-waterfalls/#.UeJ6a6xtzUU</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.928402,15.382507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cotigao Wildlife Sanctuary</name>
+        <description>This sanctuary was established in the year 1969. It covers an area of 86 square kilometers and is the second largest sanctuary in Goa. One can watch the animals from the 25 meter high watchtower that is located near the Talpona River that flows through this sanctuary. - See more at: http://www.goatourismtravels.com/sight-seeing/wildlife/cotigao-wildlife-sanctuary/#.UeJ-T6xtzUU</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            74.20619,14.976026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Netravali Wildlife Sanctuary</name>
+        <description>Netravali Wildlife Sanctuary is a major attraction for nature-enthusiasts, wildlife lovers as well as perfect for that relaxing yet adventurous short break. Netravali Wildlife Sanctuary is very popular forest reserve in Goa among the nature enthusiast and wildlife lovers. Netravali has been declared a wildlife sanctuary by the Government of Goa to protect its Western Ghats range. - See more at: http://www.goatourismtravels.com/sight-seeing/wildlife/netravali-wildlife-sanctuary/#.UeJ_EKxtzUU</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            74.253159,15.115547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bhagwan Mahavir Wildlife Sanctuary</name>
+        <description>Bhagwan Mahavir Wildlife Sanctuary is the largest wildlife sanctuary out of the four sanctuaries located in Goa. Spread over an area of 240 square kilometers, the Bhagvan Mahavir sanctuary is located amongst the thick forest cover on the slopes of the Western Ghats. The lush green forest cover is home to a variety of animals and birds. - See more at: http://www.goatourismtravels.com/sight-seeing/wildlife/bhagwan-mahavir-wildlife-sanctuary/#.UeJ_t6xtzUU</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            74.254189,15.374991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Surla Waterfalls</name>
+        <description>One can get amazing view of the waterfalls from here.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            74.184902,15.672751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chorla Ghats</name>
+        <description>From many vantage points, as one drives along the winding roads carved along the dark green mountains, one would be treated to the sight of several waterfalls that appear like silver threads far away along the faces of the other mountains that make up the Ghats. The waterfalls are all over the Chorla Ghats and to reach some of them one has to trek for many hours. - See more at: http://www.goatourismtravels.com/things-to-do/waterfall-lakes/seasonal-waterfalls/#.UeKCEqxtzUU</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            74.135141,15.649073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carambolim Lake</name>
+        <description><![CDATA[The Carambolim Lake is indeed a bird-watcher's paradise where one can see some exotic, migratory birds, which have been flocking here for hundreds of years. One can also see paddy fields, trees and woodland in the area that makes the place very picturesque. - See more at: http://www.goatourismtravels.com/things-to-do/waterfall-lakes/carambolim-lake/#.UeKOu6xtzUU]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.92771,15.486355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kuskem Waterfalls</name>
+        <description>The streams of the water fall vertically from the height of approx. 100 feet. Kuskem waterfall is an ideal place for picnics. It attracts tourists and adventure lovers all year round from all over the world. The visitors can indulge in swimming in the water. It is in its full splendor during the monsoon.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            74.213199,15.015414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Amboli</name>
+        <description>Amboli is a placid and beautiful hill station engulfed in peace and tranquility. The glorious scenes of the traversing valley and the tree lined sandy decoration of the Konkan coast. This hill station forms the southern range of the Sahyadri Hills.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.994937,15.954972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jog Falls</name>
+        <description>Jog Falls is the highest waterfall in India. Unlike other waterfalls, the Jog Falls directly plunges and does not stream onto rocks. The waterfall finds its origin in the Sharavathi River and falls from a height of 292 metres.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            74.811916,14.228944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Murudeshwar Temple</name>
+        <description>Bounded by the shimmering sea and rolling hills, the place is a favourite picnic spot. With the roaring sea to the west, the towering hills to the east and the coconut and areca groves nearby, the temple attracts a lot of devotees and tourists as well.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            74.484706,14.093791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hampi</name>
+        <description>Hampi, one of finest historical sites of ancient age in the world is a visual delight, especially due to its stark contrast from most other places. Rocks are all you see whichever direction you look at. Vegetation is visible in the wet months; but again it never dominates the landscape.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            76.461947,15.334976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atreya Vedic Farm</name>
+        <description>Set amidst nature’s abundance at the foothills of the Western Ghats at Mollem is Atreya Vedic Farm, a truly unique ecotourism venture. It has been conceived and nurtured by environmental activist, Nirmala Sawant, who believes in greening the planet today for a better tomorrow. The 36-acre estate comprises of sylvan forest land, wooded groves, perfumed tropical gardens, an orchard, an astrological plant park, Charak Vatika – a medicinal plantation, and above all, Prasidica Butterflies. There is also a beautiful stream fed by Dudh Sagar Falls where you can take bath at the end of your farm tour.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            74.214621,15.365469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anmod Ghats</name>
+        <description>Drive to Anmod Ghats during monsoons in itself is an awesome experience. As you start ascending onto the Western Ghats, there are plenty of waterfalls present on the road-side to welcome you apart from scenic views all around.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            74.279165,15.427578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chapora Fort</name>
+        <description><![CDATA[Lends a very wonderful and mystical feel to the beach while providing a spectacular view of the sea. Chapora fort is one of the most popular tourist attractions in Goa. This massive fort is built out of red laterite stones and was constructed first by the ruler of Bijapur, Adil Shah. This is one reason why it has been named Shahpura, which means the 'town of Shah'.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.736385,15.606202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mormugao Fort</name>
+        <description>Mormugao Fort is significant and has a very rich legacy. The place has survived a huge number of attacks and various Mughals and Portuguese rulers have ruled it. This fort was built with the object to guard the place from invasion of foreigners. These structures are well-built and have thick walls.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.794077,15.411966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cabo Raj Niwas or Raj Bhavan</name>
+        <description>The beauty, solitude and uniqueness and well-planned features are some of the main attractions of the Cabo. A small Chapel was constructed at the very end of the mansion dedicated to Our Virgin Lady of The Cape (Nossa Senhora do Cabo). It also served as a landmark for the seafarers.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.788769,15.463008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Terekhol Fort</name>
+        <description><![CDATA[The last post on Goa's northern border, Terekhol Fort sits on the headland looking out over the Tiracol River and the magnificent sweep of sand below that is Keri beach.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.686448,15.721332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cabo De Rama Fort</name>
+        <description>Lord Rama and his wife Sita took shelter here during their 14 year exile. A chapel located inside the fort is still in use.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.921809,15.088862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mhadei Wildlife Sanctuary</name>
+        <description>The sanctuary houses a wide range of wildlife along with a variety of bird species making it a bird watcher’s paradise. Well known for its semi green and evergreen forests, this protected wildlife region of Goa is an adventurous place to pay a visit.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            74.22967,15.56857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St. Augustine Church</name>
+        <description>The ruins of St. Augustine Church is a very popular tourist attraction and one of the most spectacular monuments in Goa. The church was built in year 1602 with the combined efforts of 12 Augustinians. They also built a convent besides the church.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.906129,15.500217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St. Cajetan Church</name>
+        <description>The St. Cajetan Church is located in Old Goa near the Se cathedral church. The church is visited by numerous tourists because of exquisite architecture. This vast and strikingly beautiful church has been constructed on the primary design of the Basilica of St. Peter located in Rome.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.915305,15.505629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Se Cathedral Church</name>
+        <description>The Se Cathedral Church of Goa is located in old Goa, and is around 9 kilometers from the capital city Panaji. The Se Cathedral of Goa is dedicated to St. Catherine of Alexandria. This magnificent edifice was built in the 16th century under the Portuguese rule in India.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.912188,15.503867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Church of St. Francis of Assisi</name>
+        <description>A stunning and charming building, the Church of St. Francis of Assisi is located in Old Goa at a distance of some 10 kilometers from the capital city, Panaji. The Church of St. Francis of Assisi is at the same complex in which Se Cathedral is located.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.911378,15.503295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Safa Masjid</name>
+        <description>The Safa Masjid (mosque) is one of the most popular mosques in Goa. It is located in Ponda district of Goa and was built in year 1560 by Adilshah of Bijapur.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            74.00017,15.406487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jama Masjid</name>
+        <description>Jama Masjid was re-built in year 1959 as it had started to fall apart due to the lashes of time. This beautiful mosque is commendable for its simple yet elegant construction.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            74.149802,15.228961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wax World Museum</name>
+        <description><![CDATA[Old Goa is the home to India's second wax museum. Each figurine is carefully sculpted of paraffin wax; the hair used is natural, although the eyes and teeth are artificial.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.91365,15.500302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Amthane Dam</name>
+        <description>Amthane Dam is one of the beautiful places around Goa that is still quiet and peaceful away from the other tourist hotspots. Amthane dam is not the most popular tourist destination in Goa therefore the virgin beauty of the place still remains unaffected.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.929791,15.698718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
